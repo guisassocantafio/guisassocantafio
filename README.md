@@ -71,23 +71,3 @@ Me chamo Guilherme Sasso Cantafio, tenho 18 anos e sou nascido e criado em São 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guisassocantafio&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisassocantafio&theme=dracula&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
