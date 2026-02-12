@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-Me chamo Guilherme Sasso Cantafio, tenho 18 anos e sou nascido e criado em São Paulo. Concluí o ensino médio na Fundação Bradesco e tualmente, estou cursando Sistemas da Informação na FIAP. Sou apaixonado por tecnologia desde pequeno, sempre buscando me atualizar as constantes mudanças.
+Me chamo Guilherme Sasso Cantafio, tenho 19 anos e sou nascido e criado em São Paulo. Concluí o ensino médio na Fundação Bradesco e tualmente, estou cursando Sistemas da Informação na FIAP. Sou apaixonado por tecnologia desde pequeno, sempre buscando me atualizar as constantes mudanças.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-sasso-cantafio-a88732308/">
